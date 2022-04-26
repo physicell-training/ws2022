@@ -1,5 +1,5 @@
 # 2022 PhysiCell Hackathon and Workshop
-Quick navigation: [[Learn](##what-youll-learn)] [[Do](#draft-agenda)] [[Benefits]()] [Flyer] [Agenda] [Tutorials] [[Outcomes](#expected-outcomes)] [[Apply](#apply-today)]
+Quick navigation: [[Learn](#what-youll-learn)] [[Do](#what-you'll-do)] [[Benefits](#benefits-and-prizees-for-accepted-hackathon-participants)] [[Flyer](#download-the-flyer-and-spread-the-word)] [[Agenda](#draft-agenda)] [[Outcomes](#expected-outcomes)] [[Apply](#apply-today)]
 
 PhysiCell is an open source, agent-based simulation framework for simulating complex multicellular systems. It simulates the chemical environment (diffusion of substrates and signaling factors), individual cell behaviors, and cell-cell interactions. It can be tailored to a broad variety of problems in cancer, infectious diseases, developmental biology, immunology, micro-ecosystems, and more.
 
@@ -13,10 +13,12 @@ The workshop is open to all without participation limits. The hackathon is close
 * Build multiscale agent-based multicellular simulations in PhysiCell
 * Integrate SBML network models in PhysiCell agents
 * Share models online on nanoHUB
+
 ## What you’ll do
 * Attend morning sessions to learn PhysiCell
 * Form a team in afternoon hackathon sessions to build a model or a tool
 * Join and help drive the PhysiCell community as future leaders
+
 ## Benefits and prizes for accepted hackathon participants!
 * Direct mentoring by experienced modelers
 * PhysiCell swag mailed ot your home (upon request)
