@@ -1,11 +1,11 @@
 # 2022 PhysiCell Hackathon and Workshop
-Quick navigation: [Learn] [Do] [Benefits] [Flyer] [Agenda] [Tutorials] [Outcomes] [Apply]
+Quick navigation: [Learn](##what-youll-learn) [Do] [Benefits] [Flyer] [Agenda] [Tutorials] [Outcomes] [[Apply](https://forms.gle/G4pM4HUv6mHncpR76)]
 
 PhysiCell is an open source, agent-based simulation framework for simulating complex multicellular systems. It simulates the chemical environment (diffusion of substrates and signaling factors), individual cell behaviors, and cell-cell interactions. It can be tailored to a broad variety of problems in cancer, infectious diseases, developmental biology, immunology, micro-ecosystems, and more.
 
 [PhysiCell won the 2019 PLoS Computational Biology Research Prize for Public Impact.](http://collections.plos.org/collection/compbiol-research-prize/)
 
-[Click here]() to skip straight to the online application.
+**[Click here](https://forms.gle/G4pM4HUv6mHncpR76) to apply online!**
 
 The workshop is open to all without participation limits. The hackathon is closely mentored and will be open to a selected cohort of up to 30 participants. Applicants should have prior experience in C++ or Python, with an interest in multicellular modeling.
 
@@ -23,7 +23,7 @@ The workshop is open to all without participation limits. The hackathon is close
 * Awards for the best model and best tool
 
 ## Download the Flyer and Spread the Word!
-Please help spread the word!
+Please help spread the word! (materials coming soon)
 
 ## Draft Agenda 
 Please stay tuned 
@@ -38,9 +38,9 @@ Please stay tuned
 * Identify new leaders in the PhysiCell community
 
 ## Apply today!
-We believe that science is enhanced by a variety of perspectives, and our goal is to create an inclusive, respectful workshop environment that invites participation from people of all races, ethnicities, gen-ders, ages, abilities, religions, and sexual orientation. We’re actively seeking to increase the diversity of our attendees and the community we serve.
+We believe that science is enhanced by a variety of perspectives, and our goal is to create an inclusive, respectful workshop environment that invites participation from people of all races, ethnicities, genders, ages, abilities, religions, and sexual orientation. We’re actively seeking to increase the diversity of our attendees and the community we serve.
 
-[Click here to apply]().
+**[Click here to apply](https://forms.gle/G4pM4HUv6mHncpR76)**
 
 ## Other workshops of interest
 We coordinated with other workshops to prevent overlapping schedules. You may be interested in:
