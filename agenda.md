@@ -19,8 +19,8 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 * Video: [click here](https://www.youtube.com/watch?v=Jp3ZOMt761M)
   * **Note:** 2021 setup video, to be updated on July 18, 2022 
 
-#### Linux
-Linux users can most likely skip setup g++ and Python setup, but should download PhysiCell 1.10.4 (or later) to test that they can compile and run the sample projects. See either the Windows or MacOS guide for details. 
+#### Linux Setup
+Linux users can most likely skip setup g++ and Python setup, but they should download [PhysiCell 1.10.4 (or later)](https://github.com/MathCancer/PhysiCell/releases/latest) to test that they can compile and run the sample projects. See either the Windows or MacOS guide for details. 
 
 #### Further help
 You can get setup help in our [dedicated Slack workspace](https://join.slack.com/t/physicellcomm-sf93727/shared_invite/zt-qj1av6yd-yVeer8VkQaNDjDz7fF00jA). 
@@ -31,8 +31,8 @@ We use a dedicated Slack workspace for annoucements, troubleshooting, and other 
 
 [https://join.slack.com/t/physicellcomm-sf93727/shared_invite/zt-qj1av6yd-yVeer8VkQaNDjDz7fF00jA](https://join.slack.com/t/physicellcomm-sf93727/shared_invite/zt-qj1av6yd-yVeer8VkQaNDjDz7fF00jA)
 
-#### Join the GatherTown space (H)
-We will use GatherTown as our virtual conference space, particularly to help navigate between zoom rooms for the virtual hackathon and breakout sessions. Details will be sent by email to full participants. 
+#### Join the Gather space (H)
+We will use Gather as our virtual conference space, particularly to help navigate between zoom rooms for the virtual hackathon and breakout sessions. Details will be sent by email to full participants. 
 
 ### Watch introductory materials
 #### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
@@ -49,12 +49,12 @@ Template slide deck to introduce yourself in the virtual social hours.
 
 ### Meet your hackathon colleagues at virtual socials (optional) 
 #### Friday, July 22 (2:00-3:30 pm US Eastern Time) Virtual Social I (H)
-Introduce yourself and meet your fellow participants in this virtual social. 
+Introduce yourself and meet your fellow participants in this virtual social. You will receive the link by email and in Gather. 
 
 Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell_ws_intro_template.pptx)
 
 #### Sunday, July 23 (4:00-5:30 pm US Eastern Time) Virtual Social II (H)
-Introduce yourself and meet your fellow participants in this virtual social. 
+Introduce yourself and meet your fellow participants in this virtual social. You will receive the link by email and in Gather. 
 
 Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell_ws_intro_template.pptx)
 
