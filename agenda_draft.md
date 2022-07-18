@@ -6,11 +6,11 @@ For a full agenda, please see [agenda.md](https://github.com/physicell-training/
 ## Pre-workshop Materials
 To arrive prepared, all workshop participants should work through the pre-workshop materials prior to Monday, July 25th. 
 ### MacOS Setup
-* Slides: [click here](https://github.com/physicell-training/ws2022/blob/main/pdfs/PhysiCell_ws2022_macOS_setup.pdf)
+* Slides: [click here](https://github.com/physicell-training/ws2022/blob/main/setup/PhysiCell_ws2022_macOS_setup.pdf)
 * Video: [click here](https://www.youtube.com/watch?v=mv_phTdanws)
 
 ### Windows Setup
-* Slides: [click here](https://github.com/physicell-training/ws2022/blob/main/pdfs/PhysiCell_ws2022_Windows_setup.pdf) 
+* Slides: [click here](https://github.com/physicell-training/ws2022/blob/main/setup/PhysiCell_ws2022_Windows_setup.pdf) 
 * Video: [click here](https://www.youtube.com/watch?v=Jp3ZOMt761M)
 
 ### Introductory Materials
