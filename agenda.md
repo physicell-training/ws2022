@@ -10,11 +10,11 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 
 ### Set up PhysiCell 
 #### MacOS Setup
-* Slides: [click here](https://github.com/physicell-training/ws2022/blob/main/setup/PhysiCell_ws2022_macOS_setup.pdf)
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/setup/PhysiCell_ws2022_macOS_setup.pdf)
 * Video: [click here](https://www.youtube.com/watch?v=mv_phTdanws)
 
 #### Windows Setup
-* Slides: [click here](https://github.com/physicell-training/ws2022/blob/main/setup/PhysiCell_ws2022_Windows_setup.pdf) 
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/setup/PhysiCell_ws2022_Windows_setup.pdf) 
 * Video: [click here](https://www.youtube.com/watch?v=Jp3ZOMt761M)
 
 #### Linux
