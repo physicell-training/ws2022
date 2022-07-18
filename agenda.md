@@ -5,16 +5,25 @@ This is the official, full agenda for the 2022 PhysiCell Workshop and Hackathon.
 
 Events marked "H" are exclusive to accepted hackathon participants. All others are publicly accessible. Wherever possible, we will post full slides and video recordings for all sessions.
 
-## Pre-Workshop Activities 
-#### Set up PhysiCell 
-Read and follow the appropriate guide for your operating system, found at: 
+## Pre-Workshop Materials and Activities 
+To arrive prepared, all workshop participants should work through the pre-workshop materials prior to Monday, July 25th. 
 
-https://github.com/physicell-training/ws2022
+### Set up PhysiCell 
+#### MacOS Setup
+* Slides: [click here](https://github.com/physicell-training/ws2022/blob/main/setup/PhysiCell_ws2022_macOS_setup.pdf)
+* Video: [click here](https://www.youtube.com/watch?v=mv_phTdanws)
 
+#### Windows Setup
+* Slides: [click here](https://github.com/physicell-training/ws2022/blob/main/setup/PhysiCell_ws2022_Windows_setup.pdf) 
+* Video: [click here](https://www.youtube.com/watch?v=Jp3ZOMt761M)
+
+#### Linux
 Linux users can most likely skip setup g++ and Python setup, but should download PhysiCell 1.10.4 (or later) to test that they can compile and run the sample projects. See either the Windows or MacOS guide for details. 
 
+#### Further help
 You can get setup help in our [dedicated Slack workspace](https://join.slack.com/t/physicellcomm-sf93727/shared_invite/zt-qj1av6yd-yVeer8VkQaNDjDz7fF00jA). 
 
+### Join the community! 
 #### Join the PhysiCell slack workspace 
 We use a dedicated Slack workspace for annoucements, troubleshooting, and other (asynchronous) community activities. Join at: 
 
@@ -23,22 +32,26 @@ We use a dedicated Slack workspace for annoucements, troubleshooting, and other 
 #### Join the GatherTown space (H)
 We will use GatherTown as our virtual conference space, particularly to help navigate between zoom rooms for the virtual hackathon and breakout sessions. Details will be sent by email to full participants. 
 
-#### Watch Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
+### Watch introductory materials
+#### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_00/slides/PhysiCell_ws2022_Session0.pdf)
 * Video: [click here]()
 
-#### Watch Session 1: Working with Projects in PhysiCell (approx 20 min)
+#### Session 1: Working with Projects in PhysiCell (approx 20 min)
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_01/slides/PhysiCell_ws2022_Session1.pdf)
 * Video: [click here](https://youtu.be/fP7-n_RlITU) 
 
-### Friday, July 22 (2:00-3:30 pm US Eastern Time)
-#### Virtual Social I (Optional) (H)
+### 4 Minute Lighting Self Introduction 
+Template slide deck to introduce yourself in the virtual social hours. 
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell_ws_intro_template.pptx)
+
+### Meet your hackathon colleagues at virtual socials (optional) 
+#### Friday, July 22 (2:00-3:30 pm US Eastern Time) Virtual Social I (H)
 Introduce yourself and meet your fellow participants in this virtual social. 
 
 Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell_ws_intro_template.pptx)
 
-### Sunday, July 23 (4:00-5:30 pm US Eastern Time)
-#### Virtual Social II (Optional) (E)
+#### Sunday, July 23 (4:00-5:30 pm US Eastern Time) Virtual Social II (H)
 Introduce yourself and meet your fellow participants in this virtual social. 
 
 Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell_ws_intro_template.pptx)
