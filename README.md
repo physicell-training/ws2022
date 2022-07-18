@@ -22,9 +22,6 @@ The workshop is open to all without participation limits. The hackathon is close
 * PhysiCell swag mailed ot your home (upon request)
 * Awards for the best model and best tool
 
-## Download the Flyer and Spread the Word!
-Please help spread the word! (materials coming soon)
-
 ## Agenda and Materials
 The full agenda and materials--including setup guides--are [here](agenda.md). 
 
