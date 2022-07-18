@@ -12,10 +12,12 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 #### MacOS Setup
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/setup/PhysiCell_ws2022_macOS_setup.pdf)
 * Video: [click here](https://www.youtube.com/watch?v=mv_phTdanws)
+  * **Note:** 2021 setup video, to be updated on July 18, 2022
 
 #### Windows Setup
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/setup/PhysiCell_ws2022_Windows_setup.pdf) 
 * Video: [click here](https://www.youtube.com/watch?v=Jp3ZOMt761M)
+  * **Note:** 2021 setup video, to be updated on July 18, 2022 
 
 #### Linux
 Linux users can most likely skip setup g++ and Python setup, but should download PhysiCell 1.10.4 (or later) to test that they can compile and run the sample projects. See either the Windows or MacOS guide for details. 
