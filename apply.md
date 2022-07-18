@@ -24,11 +24,11 @@ We use a dedicated Slack workspace for annoucements, troubleshooting, and other 
 We will use GatherTown as our virtual conference space, particularly to help navigate between zoom rooms for the virtual hackathon and breakout sessions. Details will be sent by email to full participants. 
 
 #### Watch Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
-* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/sessions/session_00/slides/PhysiCell_ws2022_Session0.pdf)
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_00/slides/PhysiCell_ws2022_Session0.pdf)
 * Video: [click here]()
 
 #### Watch Session 1: Working with Projects in PhysiCell (approx 20 min)
-* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/sessions/session_01/slides/PhysiCell_ws2022_Session1.pdf)
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_01/slides/PhysiCell_ws2022_Session1.pdf)
 * Video: [click here](https://youtu.be/fP7-n_RlITU) 
 
 ### Friday, July 22 (2:00-3:30 pm US Eastern Time)
