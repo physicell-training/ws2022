@@ -29,7 +29,7 @@ The full agenda and materials--including setup guides--are [here](agenda.md).
 * Try PhysiCell models online on nanoHUB (these may be useful for education!)
 * Learn to build and explore PhysiCell models
 * Form a new team and build one of:
-   * A PhysiCell model of a cancer system. Examples could include clonal expansion and competition in colorectal carcinoma, immunotherapy, nanotherapy, angiogenesis, or something completely new by your team!
+   * A PhysiCell model of a multicellular system. Examples could include clonal expansion and competition in colorectal carcinoma, immunotherapy, nanotherapy, angiogenesis, or something completely new by your team!
    * A PhysiCell tool that helps the community. Examples could include improved Python 3D visualization, new tools to configure models, an extension to link dynamic flux balance models, calibration tools, a plugin for reinforcement learning, or something completely new!
 * Make new connections across the cancer modeling community
 * Identify new leaders in the PhysiCell community
