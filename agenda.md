@@ -35,7 +35,7 @@ We will use Gather as our virtual conference space, particularly to help navigat
 ### Watch introductory materials
 #### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_00/slides/PhysiCell_ws2022_Session0.pdf)
-* Video: [click here]() **coming on July 19, 2022**
+* Video: [click here](https://youtu.be/A9xlvwvs8_E) 
 
 #### Session 1: Working with Projects in PhysiCell (approx 20 min)
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_01/slides/PhysiCell_ws2022_Session1.pdf)
