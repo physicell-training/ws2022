@@ -11,14 +11,12 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 ### Set up PhysiCell 
 #### MacOS Setup
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/setup/PhysiCell_ws2022_macOS_setup.pdf)
-* Video: [click here](https://www.youtube.com/watch?v=mv_phTdanws)
-  * **Note:** 2021 setup video, to be updated on July 18, 2022
+* Video: [click here](https://youtu.be/Sq9nfKS5U0E)
 
 #### Windows Setup
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/setup/PhysiCell_ws2022_Windows_setup.pdf) 
-* Video: [click here](https://www.youtube.com/watch?v=Jp3ZOMt761M)
-  * **Note:** 2021 setup video, to be updated on July 18, 2022 
-
+* Video: [click here](https://youtu.be/hIP4JUrViRA)
+  
 #### Linux Setup
 Linux users can most likely skip setup g++ and Python setup, but they should download [PhysiCell 1.10.4 (or later)](https://github.com/MathCancer/PhysiCell/releases/latest) to test that they can compile and run the sample projects. See either the Windows or MacOS guide for details. 
 
@@ -37,7 +35,7 @@ We will use Gather as our virtual conference space, particularly to help navigat
 ### Watch introductory materials
 #### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_00/slides/PhysiCell_ws2022_Session0.pdf)
-* Video: [click here]()
+* Video: [click here]() **coming on July 19, 2022**
 
 #### Session 1: Working with Projects in PhysiCell (approx 20 min)
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_01/slides/PhysiCell_ws2022_Session1.pdf)
