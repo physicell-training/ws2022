@@ -144,7 +144,7 @@ Continue forming teams for the hackathon projects.
 ### 18:00-18:15 Day 2 wrap-up (H)
 Discuss the day's progress and set the stage for Day 3. 
 
-### 18:15-19:00 3-D Visualization with Simularium (Optional)
+### 18:15-19:00 Session 8: 3-D Visualization with Simularium (Optional)
 Learn to interactively visualize 3-D simualtion data with Simularium (Allen Cell Institute). 
 
 ### 19:00-???. Virtual Social (Optional) (H). 
