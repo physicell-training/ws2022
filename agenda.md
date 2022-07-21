@@ -34,7 +34,7 @@ We will use Gather as our virtual conference space, particularly to help navigat
 
 ### Watch introductory materials
 #### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_00/slides/PhysiCell_ws2022_Session0.pdf)
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_00/slides/PhysiCell_ws2022_Session00.pdf)
 * Video: [click here](https://youtu.be/A9xlvwvs8_E) 
 
 #### Session 1: Working with Projects in PhysiCell (approx 20 min)
@@ -64,6 +64,12 @@ Welcome participants, give the overall format, and discuss goals for the week.
 
 ### 11:10-12:15. Session 2: First PhysiCell Dive
 Give an introduction to modeling with PhysiCell using built-in sample projects, including basic data visualization and data access in Jupyter notebooks. 
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/slides/PhysiCell_ws2022_Session02.pdf)
+* Code:
+  * Example 1: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_1/PhysiCell_settings.xml)
+  * Example 2: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_2/PhysiCell_settings.xml)
+  * Jupyter notebook: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/Session2_heterogeneity.ipynb)
+* Video: 
 
 ### 12:15-13:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
