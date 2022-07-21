@@ -66,8 +66,8 @@ Welcome participants, give the overall format, and discuss goals for the week.
 Give an introduction to modeling with PhysiCell using built-in sample projects, including basic data visualization and data access in Jupyter notebooks. 
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/slides/PhysiCell_ws2022_Session02.pdf)
 * Code:
-  * Example 1: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_1/PhysiCell_settings.xml)
-  * Example 2: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_2/PhysiCell_settings.xml)
+  * Example 1 config file: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_1/PhysiCell_settings.xml)
+  * Example 2 config file: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_2/PhysiCell_settings.xml)
   * Jupyter notebook: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/Session2_heterogeneity.ipynb)
 * Video: 
 
