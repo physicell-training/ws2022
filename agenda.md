@@ -1,7 +1,9 @@
 # 2022 PhysiCell Workshop and Hackathon Agenda
 This is the official, full agenda for the 2022 PhysiCell Workshop and Hackathon. 
 
-**last updated:** Sunday, July 17, 2022
+**All times are US Eastern** [Click here to see the current US Eastern date and time.](https://www.timeanddate.com/worldclock/usa/new-york)
+
+**last updated:** Sunday, July 24, 2022
 
 Events marked "H" are exclusive to accepted hackathon participants. All others are publicly accessible. Wherever possible, we will post full slides and video recordings for all sessions.
 
