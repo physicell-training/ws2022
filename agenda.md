@@ -71,8 +71,7 @@ Give an introduction to modeling with PhysiCell using built-in sample projects, 
   * Example 1 config file: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_1/PhysiCell_settings.xml)
   * Example 2 config file: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_2/PhysiCell_settings.xml)
   * Jupyter notebook: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/Session2_heterogeneity.ipynb)
-* Zoom: https://iu.zoom.us/j/83603978310
-* Video: 
+* Video: [click here](https://www.youtube.com/watch?v=e5E4xMzrJFI)
 
 ### 12:15-13:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
@@ -80,7 +79,7 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 ### 13:00-14:30. Session 3: Introduction to Cell Phenotype in PhysiCell. 
 Learn about cell phenotype in PhysiCell. Modulating cell phenotype in response to microenvironmental and other signals is key to agent-based modeling in PhysiCell. We will also introduce cell signal and behavior dictionaries for more intuitive model development. 
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_03/slides/PhysiCell_ws2022_Session03.pdf)
-* Zoom: https://iu.zoom.us/j/83603978310 
+* Video: [click here](https://www.youtube.com/watch?v=oTMmLz6kTF0)
 
 ### 14:30-15:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
@@ -105,6 +104,8 @@ Please use Gathe to continue getting to know your fellow participants.
 
 ### Asynchronous. Session 5: Boundary Conditions, Custom Variables, Parameters, and C++ searches
 Learn about how to work with boundary conditions, custom cell variables, and users parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
+* Slides:  [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_05/slides/PhysiCell_ws2022_Session05.pdf)
+* Video: [click here](https://www.youtube.com/watch?v=SaiV_7aQayY)
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
 -----
@@ -113,6 +114,8 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ### Asynchronous. Session 5: Boundary Conditions, Custom Variables, Parameters, and C++ searches
 Learn about how to work with boundary conditions, custom cell variables, and users parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
+* Slides:  [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_05/slides/PhysiCell_ws2022_Session05.pdf)
+* Video: [click here](https://www.youtube.com/watch?v=SaiV_7aQayY)
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
 
@@ -121,12 +124,15 @@ Discuss the day's goals.
 
 ### 11:10-12:15. Session 6: Functions in PhysiCell
 Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotypes that vary with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into agent rules that can dynamicaly change cell phenotype in response to signals. 
+* Zoom: https://iu.zoom.us/j/83603978310
 
 ### 12:15-12:45. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
 ### 12:45-14:00. Session 7: Cell-Cell Communication in PhysiCell
 Learn how to make cells communicate by chemical and contact interactions. 
+* Zoom: https://iu.zoom.us/j/83603978310
+
 
 ### 14:00-14:15. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
