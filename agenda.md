@@ -87,7 +87,7 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 
 ### 15:00-16:30. Session 4: Two complete modeling examples (interactive). 
 Work through two complete modeling examples from start to finish. This session will focus on defining multiple cell definitions in a model of clonal competition in a tumor. It will also define a model of innate immune response to invading bacteria. These intermediate-level models can be built completely through XML markup via a graphical interface with no additional C++. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_04/slides/PhysiCell_ws2022_Session04.pdf)
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_04/slides/PhysCell_ws2022_Session04.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_04/code/PhysCell_ws2022_Session04_config_files.zip)
 * Zoom: https://iu.zoom.us/j/83603978310 
 
