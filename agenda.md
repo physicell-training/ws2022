@@ -170,7 +170,7 @@ Discuss the day's progress and set the stage for Day 3.
 ### 18:15-19:00 Session 8: 3-D Visualization with Simularium (Optional)
 Learn to interactively visualize 3-D simualtion data with Simularium (Allen Cell Institute). 
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_08/slides/PhysiCell_ws2022_Session08.pdf)
-* Code: 
+* Code: [click here](https://github.com/PhysiCell-Tools/vis3D/tree/main/Simularium)
 * Zoom: https://iu.zoom.us/j/83603978310
 
 ### 19:00-???. Virtual Social (Optional) (H). 
@@ -180,7 +180,7 @@ Please use Gather to continue getting to know your fellow participants.
 Learn about 3-D visualization with the FURY framework. 
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_09/slides/PhysiCell_ws2022_Session09.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_09/code/fury3D.py)
-* Video:
+* Video: 
 
 ### Asynchronous. Session 10: PhysiBoSS Introduction 
 Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
