@@ -186,7 +186,7 @@ Learn about 3-D visualization with the FURY framework.
 Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_10/slides/PhysiCell_ws2022_Session10.pdf)
 * Code: 
-* Video:
+* Video: [click here](https://youtu.be/P3sE6YCNPaM)
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
