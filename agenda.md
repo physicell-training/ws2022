@@ -185,7 +185,6 @@ Learn about 3-D visualization with the FURY framework.
 ### Asynchronous. Session 10: PhysiBoSS Introduction 
 Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_10/slides/PhysiCell_ws2022_Session10.pdf)
-* Code: 
 * Video: [click here](https://youtu.be/P3sE6YCNPaM)
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
@@ -196,7 +195,9 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ### Asynchronous. Session 10: PhysiBoSS Introduction 
 Learn about the PhysiBoSS extension to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
-
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_10/slides/PhysiCell_ws2022_Session10.pdf)
+* Video: [click here](https://youtu.be/P3sE6YCNPaM)
+ 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
 ### 11:00-11:05. Welcome and Day's Goals (H)
@@ -204,6 +205,9 @@ Discuss the day's goals.
 
 ### 11:05-12:30. Session 11: PhysiBoSS Walk-Thru
 Continue to learn to integrate Boolean signaling networks with PhysiCelll in this fully guided walk-thru. 
+* Slides:
+* Code: [click here](https://github.com/PhysiBoSS/PhysiBoSS/tree/development)
+* Zoom: 
 
 ### 12:30-13:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
