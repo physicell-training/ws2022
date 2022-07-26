@@ -169,7 +169,7 @@ Discuss the day's progress and set the stage for Day 3.
 
 ### 18:15-19:00 Session 8: 3-D Visualization with Simularium (Optional)
 Learn to interactively visualize 3-D simualtion data with Simularium (Allen Cell Institute). 
-* Slides:
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_08/slides/PhysiCell_ws2022_Session08.pdf)
 * Code: 
 * Zoom: https://iu.zoom.us/j/83603978310
 
