@@ -124,15 +124,18 @@ Discuss the day's goals.
 
 ### 11:10-12:15. Session 6: Functions in PhysiCell
 Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotypes that vary with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into agent rules that can dynamicaly change cell phenotype in response to signals. 
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_06/slides/PhysiCell_ws2022_Session06.pdf)
+* Code: [click here](https://github.com/physicell-training/ws2022/tree/main/sessions/session_06/code)
 * Zoom: https://iu.zoom.us/j/83603978310
 
 ### 12:15-12:45. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 12:45-14:00. Session 7: Cell-Cell Communication in PhysiCell
+### 12:45-14:00. Session 7: Cell-Cell Interactions in PhysiCell
 Learn how to make cells communicate by chemical and contact interactions. 
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_07/slides/PhysiCell_ws2022_Session07.pdf)
+* Code: [click here](https://github.com/physicell-training/ws2022/tree/main/sessions/session_07/code)
 * Zoom: https://iu.zoom.us/j/83603978310
-
 
 ### 14:00-14:15. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
