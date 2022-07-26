@@ -178,8 +178,8 @@ Please use Gather to continue getting to know your fellow participants.
 
 ### Asynchronous. Session 9: 3-D Visualization with FURY (optional)  
 Learn about 3-D visualization with the FURY framework. 
-* Slides: 
-* Code: 
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_09/slides/PhysiCell_ws2022_Session09.pdf)
+* Code: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_09/code/fury3D.py)
 * Video:
 
 ### Asynchronous. Session 10: PhysiBoSS Introduction 
