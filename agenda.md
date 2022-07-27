@@ -228,6 +228,7 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 
 ### 15:45-16:45. Team Time 1 (H)
 Work with your team on your project in Gather / Zoom breakout. Work on brief presentations of your team's plans 
+* Instructions: [click here](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell%202022_TeamTime1.pptx)
 
 ### 16:45-17:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
