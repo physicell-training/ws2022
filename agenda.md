@@ -205,21 +205,23 @@ Discuss the day's goals.
 
 ### 11:05-12:30. Session 11: PhysiBoSS Walk-Thru
 Continue to learn to integrate Boolean signaling networks with PhysiCelll in this fully guided walk-thru. 
-* Slides:
+* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_11/slides/PhysiCell_ws2022_Session11.pdf)
 * Code: [click here](https://github.com/PhysiBoSS/PhysiBoSS/tree/development)
-* Zoom: 
+* Zoom: message Paul Macklin or Furkan Kurtoglu for details
 
 ### 12:30-13:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
 ### 13:00-13:45. Session 12: Intracellular with libRoadrunner (introduction)
 Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
+* Zoom: message Paul Macklin or Furkan Kurtoglu for details
 
 ### 13:45-14:00. Break (H)
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
 ### 14:30-15:15. Session 13: Intracellular with libRoadrunner (interactive demo)
 Continuing learning how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
+* Zoom: message Paul Macklin or Furkan Kurtoglu for details
 
 ### 15:15-15:45. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
