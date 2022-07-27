@@ -219,14 +219,14 @@ Learn how to write intracellular models (systems of ODEs) in cancer cell agents.
 ### 13:45-14:00. Break (H)
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
-### 14:30-15:15. Session 13: Intracellular with libRoadrunner (interactive demo)
+### 14:00-14:45. Session 13: Intracellular with libRoadrunner (interactive demo)
 Continuing learning how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
 * Zoom: message Paul Macklin or Furkan Kurtoglu for details
 
-### 15:15-15:45. Break (H)
+### 14:45-15:30. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 15:45-16:45. Team Time 1 (H)
+### 15:30-16:45. Team Time 1 (H)
 Work with your team on your project in Gather / Zoom breakout. Work on brief presentations of your team's plans 
 
 ### 16:45-17:00. Break (H)
