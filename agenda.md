@@ -280,13 +280,13 @@ Please use Gather to continue getting to know your fellow participants.
 ### 11:00-11:05. Welcome and Day's Goals (H)
 Discuss the day's goals
 
-### 11:05-17:50. Team Time (H) 
+### 11:05-17:00. Team Time (H) 
 Work with your team in Gather / Zoom. Schedule breaks on your own as needed. 
 
-### 17:50-18:00. Day 5 wrap-up (H)
+### 17:00-17:30. Day 5 wrap-up (H)
 Discuss the day's progress and set the stage for group presentations. 
 
-### 18:00-???. Virtual Social (Optional) (H). 
+### 17:30-???. Virtual Social (Optional) (H). 
 Please use Gather to continue getting to know your fellow participants. 
 
 -----
@@ -294,11 +294,11 @@ Please use Gather to continue getting to know your fellow participants.
 ## Saturday, July 30: Final Presentations (All times US Eastern)
 Brielfy present your team's project results for the community and for consideration for prizes. Detailed schedule TBA. 
 
-30 minute presetation, with 10 minutes of Q&A. 
+25 minute presetation, with 5 minutes of Q&A. 
 
 ### Presentation templates: 
 Adapt as you see best:
-* Model presentation template [click here](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_final_presentation_template(model).pptx)
-* Tool presentation template [click here](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_final_presentation_template(tool).pptx)
+* Model presentation template [click here](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell_ws2022_final_presentation_template(model).pptx)
+* Tool presentation template [click here](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell_ws2022_final_presentation_template(tool).pptx) 
 
-### 17:10-17:30 Announce winners and farewell (E) 
+### 14:30-15:00 Announce results and farewell (H) 
